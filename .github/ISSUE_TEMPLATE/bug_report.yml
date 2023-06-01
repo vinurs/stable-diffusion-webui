@@ -94,7 +94,7 @@ body:
         - Doggettx
         - V1 
         - InvokeAI
-        - "None"
+        - "None "
     validations:
       required: true
   - type: dropdown
